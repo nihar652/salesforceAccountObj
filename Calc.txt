@@ -1,0 +1,21 @@
+public class Calc {
+    integer a=10;
+    integer b=2;
+    integer sum,sub,mul,div;
+    public void doSum() {
+        sum=a+b;
+        System.debug('Sum = ' + sum);}
+    
+    public void doSub(){
+        sub=a-b;
+        System.debug('Subtraction = ' + sub);}
+    
+    public void doMul(){
+        mul=a*b;
+        System.debug('Multiplication = ' + mul);}
+    
+    public void doDiv(){
+        div=a/b;
+        System.debug('Division = ' + div);}
+
+}
