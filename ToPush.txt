@@ -1,0 +1,13 @@
+$ mkdir gitdemo
+
+labuser@Windows MINGW64 ~
+$ cd gitdemo
+
+labuser@Windows MINGW64 ~/gitdemo
+$ git config --global user.name nihar652
+
+labuser@Windows MINGW64 ~/gitdemo
+$ git config --global user.email vattam.10828652@ltimindtree.com
+
+labuser@Windows MINGW64 ~/gitdemo
+$ git clone https://github.com/nihar652/salesforceAccountObj.git
